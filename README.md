@@ -2,10 +2,10 @@
 
 1. 值类型
    - [地址与合约 address 与 contract](./variables/address-and-contract.md)
-   - [字节 bytes](../variables/bytes.md)
-   - [枚举 enums](../variables/enums.md)
-   - [函数 funnctions](../variables/funnctions.md)
-   - [字面量 literals](../variables/literals.md)
+   - [字节 bytes](./variables/bytes.md)
+   - [枚举 enums](./variables/enums.md)
+   - [函数 funnctions](./variables/functions.md)
+   - [字面量 literals](./variables/literals.md)
 2. [引用类型](./reference-types.md)
 
 二、[单位与全局变量函数](./units-and-globally-available-variables.md)
